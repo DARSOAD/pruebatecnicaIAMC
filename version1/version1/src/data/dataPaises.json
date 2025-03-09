@@ -1,0 +1,24 @@
+[
+    { "codigo": "ARG", "nombre": "Argentina" },
+    { "codigo": "BOL", "nombre": "Bolivia" },
+    { "codigo": "BRA", "nombre": "Brasil" },
+    { "codigo": "CHL", "nombre": "Chile" },
+    { "codigo": "COL", "nombre": "Colombia" },
+    { "codigo": "CRI", "nombre": "Costa Rica" },
+    { "codigo": "CUB", "nombre": "Cuba" },
+    { "codigo": "DOM", "nombre": "República Dominicana" },
+    { "codigo": "ECU", "nombre": "Ecuador" },
+    { "codigo": "SLV", "nombre": "El Salvador" },
+    { "codigo": "GTM", "nombre": "Guatemala" },
+    { "codigo": "GUY", "nombre": "Guyana" },
+    { "codigo": "HND", "nombre": "Honduras" },
+    { "codigo": "MEX", "nombre": "México" },
+    { "codigo": "NIC", "nombre": "Nicaragua" },
+    { "codigo": "PAN", "nombre": "Panamá" },
+    { "codigo": "PRY", "nombre": "Paraguay" },
+    { "codigo": "PER", "nombre": "Perú" },
+    { "codigo": "SUR", "nombre": "Surinam" },
+    { "codigo": "URY", "nombre": "Uruguay" },
+    { "codigo": "VEN", "nombre": "Venezuela" }
+  ]
+  

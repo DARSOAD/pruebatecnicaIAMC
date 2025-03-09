@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "fecha": "2024-03-08",
+      "nit": "900123456",
+      "razonSocial": "Cacao Premium S.A.",
+      "naturalezaEmpresa": "Privada",
+      "tipoEmpresaCacaotera": "Comercializador",
+      "correoElectronico": "contacto@cacaopremium.com",
+      "numeroCelular": "3001234567",
+      "representanteLegal": "Juan Pérez",
+      "estado": "Activo",
+      "acciones": ["Editar", "Eliminar"]
+    },
+    {
+      "id": 2,
+      "fecha": "2024-02-25",
+      "nit": "901234567",
+      "razonSocial": "Exportaciones Cacao LTDA",
+      "naturalezaEmpresa": "Mixta",
+      "tipoEmpresaCacaotera": "Exportador",
+      "correoElectronico": "info@exportcacao.com",
+      "numeroCelular": "3019876543",
+      "representanteLegal": "María Gómez",
+      "estado": "Pendiente",
+      "acciones": ["Editar", "Aprobar"]
+    },
+    {
+      "id": 3,
+      "fecha": "2024-01-15",
+      "nit": "902345678",
+      "razonSocial": "Transformaciones del Cacao SAS",
+      "naturalezaEmpresa": "Privada",
+      "tipoEmpresaCacaotera": "Transformador",
+      "correoElectronico": "ventas@cacaotransformaciones.com",
+      "numeroCelular": "3124567890",
+      "representanteLegal": "Carlos Ramírez",
+      "estado": "Inactivo",
+      "acciones": ["Activar", "Eliminar"]
+    }
+  ]
+  

@@ -1,0 +1,11 @@
+[
+    { "tipoPersona": "Natural", "tipoDocumento": "CC", "numeroDocumento": "1001234567" },
+    { "tipoPersona": "Natural", "tipoDocumento": "CC", "numeroDocumento": "1019876543" },
+    { "tipoPersona": "Natural", "tipoDocumento": "CC", "numeroDocumento": "1025678910" },
+    { "tipoPersona": "Natural", "tipoDocumento": "CC", "numeroDocumento": "1031122334" },
+    { "tipoPersona": "Jurídica", "tipoDocumento": "NIT", "numeroDocumento": "900123456" },
+    { "tipoPersona": "Jurídica", "tipoDocumento": "NIT", "numeroDocumento": "901234567" },
+    { "tipoPersona": "Jurídica", "tipoDocumento": "NIT", "numeroDocumento": "902345678" },
+    { "tipoPersona": "Jurídica", "tipoDocumento": "NIT", "numeroDocumento": "903456789" }
+  ]
+  
